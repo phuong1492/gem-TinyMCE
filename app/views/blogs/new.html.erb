@@ -1,0 +1,13 @@
+<div class="col-md-6 col-md-offset-3">
+  <%= form_for @blog do |f| %>
+
+  <%= f.label :title %>
+  <%= f.text_field :title, class: 'form-control' %>
+
+  <%= f.label :content %>
+  <%= f.text_area :content, class: "form-control tinymce", rows: 20, cols: 50 %>
+
+  <%= f.submit "Create", class: "btn btn-primary " %>
+  <% end %>
+  <%= tinymce %>
+</div>

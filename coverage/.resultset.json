@@ -1,0 +1,49 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/phuonghoang/workspace/gem-TinyMCE/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/phuonghoang/workspace/gem-TinyMCE/app/controllers/blogs_controller.rb": [
+        1,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        1,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Users/phuonghoang/workspace/gem-TinyMCE/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/Users/phuonghoang/workspace/gem-TinyMCE/app/models/blog.rb": [
+        0,
+        0
+      ]
+    },
+    "timestamp": 1458717449
+  }
+}

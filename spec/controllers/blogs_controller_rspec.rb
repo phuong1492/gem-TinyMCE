@@ -6,4 +6,9 @@ RSpec.describe BlogsController, type: :controller do
     before{get :index}
     it{is_expected.to render_template :index}
   end
+
+  context "GET new" do
+      before{get :new}
+      it{is_expected.to render_template :new}
+    end
 end
